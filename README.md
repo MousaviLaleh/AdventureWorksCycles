@@ -29,7 +29,8 @@ We included drill-through functionality to dive deeper into specific product per
 ![02.png](images/02.png)
 <br/>
 ![03.png](images/03.png)
-The last part is a view all about the customers; Top Revenue driving customers, break down them by Gender, Income and Occupation. We have orders by age, top customers and top line metrics related to customers, bookmarks and links to tire all pages toghether. <br/>
+The last part is a view all about the customers; Top Revenue driving customers, break down them by Gender, Income and Occupation. We have orders by age, top customers and top line metrics related to customers, bookmarks and links to tire all pages toghether. 
+<br/><br/>
 ![04.png](images/04.png)
 
 
