@@ -27,6 +27,7 @@ Use Power BI Desktop to:
 We have executive summary here that allows you to break down the data and explore information by Categories and Subcategories. We also have core business KPIs, the Rvenue, Order volume and Returns for the current month. We have a quick snapshot of the most ordered product and the top revenue driving products and also included the ability to filter down the entire page by specific Sales Region.<br/>
 We included drill-through functionality to dive deeper into specific product performance and provided insights like Pacing against Targets, Profit Trendig Over Time and forecast into the future. 
 <br/>
+<br/>
 ![02.png](images/02.png)
 <br/>
 ![03.png](images/03.png)
