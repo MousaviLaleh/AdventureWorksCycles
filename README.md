@@ -20,4 +20,8 @@ Use Power BI Desktop to:
 - Create new calculated columns and DAX measures.
 - Design an interactive report to analyze and visualize the data.
 
+#### Final Deliverable of the Project
+![01.png](images/01.png)
+<br/>
+
 
