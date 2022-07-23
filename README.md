@@ -13,7 +13,8 @@ The goal o this project is to design and deliver an ened-to-end business intelli
 - Data Source : [Adventure Works CSV Files](AdventureWorksCSVFiles.7z)
 - Work Environment : [Power BI Desktop x64](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
-## Analysis
+## Core Objectives
+Use Power BI Desktop to:
 - Connect and transform the raw data.
 - Build a relational data model.
 - Create new calculated columns and DAX measures.
