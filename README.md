@@ -1,5 +1,5 @@
 # Adventure Works Cycles
-Power BI sample Project
+An interactive dashboard using Power BI 
 
 ## Project Overview
 The goal o this project is to design and deliver an ened-to-end business intelligence solution. The client needs a way to 
